@@ -1,0 +1,7 @@
+{
+  "name": "Lumina Film Fest 2025",
+  "description": "Un micrositio elegante y moderno para un festival de cine internacional, con un asistente de recomendaciones impulsado por IA.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
